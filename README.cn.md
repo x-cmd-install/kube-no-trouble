@@ -4,7 +4,7 @@
 
 Easily check your clusters for use of deprecated APIs
 
-![kube-no-trouble](https://repo.x-cmd.io/kube-no-trouble.svg)
+![kube-no-trouble](https://repo.x-cmd.io/kube-no-trouble.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,16 @@ x install kube-no-trouble
 - **最新版本**: `nightly-0.7.3-43-g2366d92` (2024-08-30)
 - **最近提交**: 2025-01-11
 - **Release 含资产**: 5 个
-- **发布时间**: 2024-08-30T07:58:47Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kubent-0.7.3-darwin-amd64.tar.gz](https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-darwin-amd64.tar.gz) | 13.5 MiB | `native/darwin/x64` |
+| [kubent-0.7.3-darwin-arm64.tar.gz](https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-darwin-arm64.tar.gz) | 12.4 MiB | `native/darwin/arm64` |
+| [kubent-0.7.3-linux-amd64.tar.gz](https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-linux-amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
+| [kubent-0.7.3-linux-arm64.tar.gz](https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-linux-arm64.tar.gz) | 11.9 MiB | `native/linux/arm64` |
+| [kubent-0.7.3-windows-amd64.tar.gz](https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-windows-amd64.tar.gz) | 13.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -71,4 +80,4 @@ kube-no-trouble 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:24:28Z._
