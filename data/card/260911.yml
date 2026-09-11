@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly-0.7.3-43-g2366d92"
   latestRelease: "0.7.3"
   latestPrerelease: "nightly-0.7.3-43-g2366d92"
-  collectedAt: 2026-09-11T04:37:02Z
+  collectedAt: 2026-09-11T20:24:32Z
 timeline:
   created: 2020-04-08
   lastCommit: 2025-01-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-08-30
   lastPrerelease: 2025-01-12
 popularity:
-  star: 3681
+  star: 3680
   watcher: 14
   fork: 168
   release: 118
@@ -87,7 +87,7 @@ total:
   commit: 585
 ---
 path: /home/runner/.x-repo/github.com/doitintl/kube-no-trouble
-collectedAt: 2026-09-11T04:37:02Z
+collectedAt: 2026-09-11T20:24:37Z
 loc:
   Go:
     code: 3320
