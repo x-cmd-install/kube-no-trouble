@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,681 · **Forks**: 168 · **Open issues**: 176 · **Contributors**: 18
+- **Stars**: 3,680 · **Forks**: 168 · **Open issues**: 176 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -92,4 +92,4 @@ Install metadata for kube-no-trouble lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:37:06Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:24:58Z._
