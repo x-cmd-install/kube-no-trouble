@@ -4,7 +4,7 @@
 
 Easily check your clusters for use of deprecated APIs
 
-![kube-no-trouble](https://repo.x-cmd.io/kube-no-trouble.svg)
+[![x-cmd/install — kube-no-trouble Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-no-trouble.svg)](https://x-cmd.com/install/kube-no-trouble)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 7 | 1 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 7 | 3 | 0 | 0 |
-| last720d | 2024-09-28 | 12 | 13 | 8 | 11 | 3 | 39 |
+| 30d | 2026-08-22 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 0 | 0 | 7 | 1 | 0 | 0 |
+| 360d | 2025-09-26 | 0 | 0 | 7 | 3 | 0 | 0 |
+| last720d | 2024-10-01 | 12 | 11 | 8 | 11 | 3 | 36 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for kube-no-trouble lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:49:35Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:54:04Z._
