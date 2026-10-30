@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,693 · **Forks**: 172 · **Open issues**: 176 · **Contributors**: 18
+- **Stars**: 3,694 · **Forks**: 172 · **Open issues**: 176 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 0 | 0 | 7 | 3 | 0 | 0 |
-| last720d | 2024-11-08 | 4 | 3 | 8 | 8 | 1 | 10 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 0 | 0 | 7 | 3 | 0 | 0 |
+| last720d | 2024-11-09 | 4 | 3 | 8 | 8 | 1 | 10 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kube-no-trouble lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:41:45Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:40:12Z._
