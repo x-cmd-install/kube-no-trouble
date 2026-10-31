@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14144487,
       "digest": null,
-      "download_count": 767,
+      "download_count": 769,
       "created_at": "2024-08-29T21:03:17Z",
       "updated_at": "2024-08-29T21:03:17Z",
       "browser_download_url": "https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13049941,
       "digest": null,
-      "download_count": 2775,
+      "download_count": 2787,
       "created_at": "2024-08-29T21:03:16Z",
       "updated_at": "2024-08-29T21:03:17Z",
       "browser_download_url": "https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13885177,
       "digest": null,
-      "download_count": 520787,
+      "download_count": 521818,
       "created_at": "2024-08-29T21:03:17Z",
       "updated_at": "2024-08-29T21:03:18Z",
       "browser_download_url": "https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12464200,
       "digest": null,
-      "download_count": 120862,
+      "download_count": 121582,
       "created_at": "2024-08-29T21:03:16Z",
       "updated_at": "2024-08-29T21:03:17Z",
       "browser_download_url": "https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14213962,
       "digest": null,
-      "download_count": 7138,
+      "download_count": 7141,
       "created_at": "2024-08-29T21:03:19Z",
       "updated_at": "2024-08-29T21:03:20Z",
       "browser_download_url": "https://github.com/doitintl/kube-no-trouble/releases/download/0.7.3/kubent-0.7.3-windows-amd64.tar.gz"
