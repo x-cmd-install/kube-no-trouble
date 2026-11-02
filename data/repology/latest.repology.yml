@@ -4,7 +4,7 @@
   binname: kube-no-trouble
   visiblename: kube-no-trouble
   version: 0.7.3
-  origversion: 0.7.3-r16
+  origversion: 0.7.3-r17
   status: newest
   summary: Easily check your clusters for use of deprecated APIs
   maintainers:
