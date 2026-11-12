@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 0 | 0 | 7 | 3 | 0 | 0 |
-| last720d | 2024-11-21 | 2 | 2 | 8 | 8 | 1 | 5 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 0 | 0 | 7 | 3 | 0 | 0 |
+| last720d | 2024-11-22 | 2 | 2 | 8 | 8 | 1 | 5 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kube-no-trouble lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:18:34Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:13:30Z._
